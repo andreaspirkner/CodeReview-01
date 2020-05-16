@@ -74,13 +74,38 @@ a:link {
 	justify-content: center;
 	margin-left: 25%;
 	margin-bottom: 10%;
-	
+
 }
 
 input[type="submit"]{
 	cursor: pointer;
 }
-/*end login section*/
+/*end Login section*/
+
+/*Video Section*/
+.video{
+	width: 50%;
+	padding: 30px 0 30px 0;
+	background-color: #c65252;
+	justify-content: center;
+	margin-left: 25%;
+	margin-bottom: 10%;
+	box-shadow: 0 20px 10px 10px #cabbb7;
+}
+
+.blogtext{
+	text-align: center;
+	margin: 10% 0 10% 25%;
+	width: 50%;
+	box-shadow: 0 20px 10px 10px #cabbb7;
+	padding: 30px 0 30px 0;
+	background-color: #c65252;
+
+}
+/*end Video section*/
+
+
+
 
 #phone{
 	margin: auto;
