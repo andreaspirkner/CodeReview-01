@@ -59,11 +59,36 @@ a:link {
 	text-decoration: none
 }
 
+.box{
+    font-weight: bold;
+    font-size: 3.5em;
+    text-align: center;
+}
+
+/* Login Section*/
+
+.form{
+	width: 50%;
+	padding: 30px 0 30px 0;
+	background-color: #c65252;
+	justify-content: center;
+	margin-left: 25%;
+	margin-bottom: 10%;
+	/*display: flex;*/
+    /*flex-flow: row wrap;
+    justify-content: space-between;*/
+}
+
+input[type="submit"]{
+	cursor: pointer;
+}
+/*end login section*/
+
 #phone{
 	margin: auto;
     width: 90%;
     font-weight: bold;
-    font-size: 1.6em;
+    font-size: 1.5em;
     text-align: center;
 }
 .pictures{
@@ -77,16 +102,10 @@ a:link {
     padding-bottom: 30px;
 }
 
-.box{
-    font-weight: bold;
-    font-size: 3.5em;
-    text-align: center;
-}
-
 .box1 {
     width: 48%;
     font-weight: bold;
-    font-size: 1.6em;
+    font-size: 1.5em;
 }
 
 .footer{
